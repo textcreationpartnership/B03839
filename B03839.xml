@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jacobite's new creed, containing the articles of their faith, and doctrine of salvation, as now preach'd and practised, &amp;c. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03839</idno><idno type="EEBO-CITATION">52211853</idno>
+  <idno type="VID">175706</idno>
+  <idno type="EEBO-PROQUEST">2240898877</idno>
+  
+            <idno type="STC">Wing J107</idno>
+            <idno type="STC">ESTC R178824</idno>
+            <idno type="OCLC">52211853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175706)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2747:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jacobite's new creed, containing the articles of their faith, and doctrine of salvation, as now preach'd and practised, &amp;c. Licensed according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Golding,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on the religious and political aspirations of the Jacobites.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jacobites --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th century.</term>
+               <term type="topical_term">Religious satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175706:1"/>
+            <p>THE JACOBITE's New Creed, Containing the ARTICLES OF THEIR FAITH, AND Doctrine of Salvation, AS <hi>Now Preach'd and Practised,</hi> &amp;c.</p>
+            <p>Licensed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Golding,</hi> 1693.</p>
+            <pb facs="tcp:175706:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Jacobite_articles_of_faith">
+            <pb n="3" facs="tcp:175706:2"/>
+            <head>
+               <hi>The Jacobite Creed:</hi>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntaining the Articles of their Faith, <hi>&amp;c▪</hi>
+            </head>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. WHat is thy Name?</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</hi> JACOBITE.</p>
+            <p>
+               <hi>Qu.</hi> Who gave thee that Name?</p>
+            <p>
+               <hi>Ans.</hi> My Godfathers and Godmothers at Father <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>re</hi>'s Font, wherein I was made a Member of <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ther-Militant,</hi> the Child of <hi>Vengeance,</hi> and an <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eritor of the Kingdom of <hi>Babylon.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> What did those Godfathers and Godmothers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for you?</p>
+            <p>
+               <hi>Ans.</hi> They promis'd and vow'd three things in my me. <hi>First,</hi> That I should renounce the Devil and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Works, <hi>Heresie</hi> and <hi>Law:</hi> The Pomps and <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ities of this Wicked World, <hi>Coronation Oaths, British Honour,</hi> and all the sinful Lusts of the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>h, <hi>Liberty</hi> and <hi>Property. Secondly,</hi> That I should <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>eve in all the Articles of the <hi>Alcoran,</hi> the Faith of great <hi>Colleagues</hi> and <hi>Allies,</hi> And <hi>Thirdly,</hi> That <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould keep <hi>Lewis</hi> and <hi>Mahomet</hi>'s holy Will and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mand, and walk in the same a <hi>Monsieur</hi> and a <hi>Sulman</hi> all the days of my Life.</p>
+            <p>
+               <hi>Qu.</hi> Dost thou not think that thou art bound to be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, and to do as they have promised for thee?</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns.</hi> Yes verily, and by St. <hi>Ignatius</hi> Help, so I
+<pb n="4" facs="tcp:175706:3"/> will, and I heartily thank our Father at <hi>Mecca,</hi> and our Mother at the <hi>Vatican,</hi> that they have called me to this State of Salvation through the Heroe of <hi>France,</hi> our <hi>Champion</hi> and <hi>Saviour,</hi> and I pray unto <hi>Mainte<g ref="char:EOLhyphen"/>non</hi> to secure me his Grace, that I may continue in the same all the Days of my Life.</p>
+            <p>Qu. What is the Corner Stone of our Faith?</p>
+            <p>
+               <hi>Ans. <hi>Transubstantiation.</hi>
+               </hi> That great and miraculous Transmutation of Principles and Ele<g ref="char:EOLunhyphen"/>ments, that does any thing, and every thing, even to the wonderful Conversion of <hi>Lewis</hi> and <hi>J—s</hi> int<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Saints</hi> and <hi>Innocents.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> How many <hi>Sacraments</hi> are there?</p>
+            <p>
+               <hi>An.</hi> Seven.</p>
+            <p>
+               <hi>Qu.</hi> Which are they?</p>
+            <p>
+               <hi>An.</hi> The two first as I learnt them in my <hi>Heretic<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cathechism,</hi> the latter only a little more famous <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Our Church, as having had the Honour by th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great <hi>Monarch</hi> of <hi>France</hi> to be once taken as a sma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Oath <hi>That he wou'd never invade FLANDER<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and ready upon Occasion, to give us the same Secu<g ref="char:EOLhyphen"/>rity <hi>he will never Hurt ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> What are the other Five?</p>
+            <p>
+               <hi>Ans.</hi> 3d. <hi>Confirmation.</hi> The miraculous Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>veyance of Blessings down upon us, from the Han<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his late Reverence of <hi>Ely,</hi> or some other such <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>piscopal Benediction,</hi> as a Seal of our <hi>Jacobite</hi> Cov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nant.</p>
+            <p>4th. <hi>Matrimony.</hi> That great conjoyning Kno<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the incorporating of one <hi>Flesh</hi> and one <hi>Bone;</hi> suc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the Sacred <hi>Conjugal Ʋnion</hi> of the <hi>Crescent</hi> and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Cross</hi> in our present Consummation of <hi>Jacobite H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nour.</hi>
+            </p>
+            <pb n="5" facs="tcp:175706:3"/>
+            <p> 5th. <hi>Pennance.</hi> Our Rueful Lamentations for our Glory departed, in the 7 <hi>Penitential Psalms</hi> set to our <hi>Neck-verse Tune.</hi>
+            </p>
+            <p>6th. <hi>Orders.</hi> The Sacred Investiture of the ever Holy <hi>Furr</hi> (whither White, Black, or Grey) of the <hi>Bellweathers</hi> of our <hi>Jacobite Flock.</hi>
+            </p>
+            <p>7th. <hi>Extream Vnction.</hi> That pretious Oyl or Spikenard applyed to the Feet of our departing Saints as their preparatory Embalment; such as was ad<g ref="char:EOLhyphen"/>ministred to our sickening and gasping <hi>Jacobite Cause</hi> at the Ingress of the late <hi>Revolution.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> How many are the Theological Virtues?</p>
+            <p>
+               <hi>Ans.</hi> Three, <hi>Faith, Hope,</hi> and <hi>Charity.</hi>
+            </p>
+            <p>
+               <hi>Faith,</hi> Our unshaken Relyance and Confidence in the Wonders that shall be done for us; such as our constant Belief that the ever shining <hi>Glory of France</hi> is ordain'd for the Founder and Foundation of our <hi>Jacobite Israel,</hi> whose <hi>Fiery Pillar</hi> shall go be<g ref="char:EOLhyphen"/>fore us to the <hi>Promised Land.</hi>
+            </p>
+            <p>
+               <hi>Hope,</hi> Our earnest Expectation in the next happy <hi>Descent</hi> upon us to see it accomplished.</p>
+            <p>And <hi>Charity</hi> (the last and greatest of the Three) Our Obligations and Duty of paying our kindest and gratefullest Acknowledgements in that blest Day, to all our Patrons and Benefactors Champions or Assi<g ref="char:EOLhyphen"/>stants in that <hi>great Work;</hi> such as the generous Do<g ref="char:EOLhyphen"/>nations of <hi>Abby-Lands</hi> and <hi>Heretick Estates</hi> to those indefatigable Labourers in our great <hi>Harvest,</hi> whe<g ref="char:EOLhyphen"/>ther our dear <hi>Teagues</hi> and <hi>Rapparees,</hi> or by what other Titles dignified or distinguisht, or where-ever at present dispers'd and scatter'd upon the melancholy Face of the Earth.</p>
+            <pb n="6" facs="tcp:175706:4"/>
+            <p>
+               <hi>Qu.</hi> How many are the Merits of Good Works?</p>
+            <p>
+               <hi>Ans.</hi> Three, <hi>Fasting, Prayer,</hi> and <hi>Alms-Deeds.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> What is the Duty of <hi>Fasting?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Our abstemious self-denial of pampering <hi>Flesh-pots,</hi> for Crabs and Lobsters, Codsheads and Shrimps, Caveare and Sturgeon, and the rest of our mortifying Abstinentials.</p>
+            <p>
+               <hi>Qu.</hi> What is the Duty of <hi>Prayer?</hi>
+            </p>
+            <p>
+               <hi>Ans. Prayer</hi> is Twofold, <hi>Petition</hi> and <hi>Thanksgiving.</hi>
+            </p>
+            <p>Our <hi>Petitioning Duty</hi> is offering up our devout Supplications to some <hi>Divinity</hi> or <hi>Saint,</hi> for a sup<g ref="char:EOLhyphen"/>ply of our daily Wants; such as our pious Ejacula<g ref="char:EOLhyphen"/>tions to St. <hi>Mahomet,</hi> for the Relief of <hi>Belgrade;</hi> and to St. <hi>Loyala,</hi> for the taking of <hi>Charleroy.</hi>
+            </p>
+            <p>Our <hi>Thansgiving Duty</hi> is the hearty Return of our highest Acknowledgements for all the signal Mercies and Providences received, such as the Ashes of <hi>Spire, Wormes, Frankendal, Heigdlebergh,</hi> &amp;c. or otherwise, for the Famous Examples and Patterns of our <hi>Devotion</hi> and <hi>Piety,</hi> whether the <hi>Saints</hi> now Living, as St. <hi>Levaleer,</hi> St. <hi>Montespagne,</hi> &amp;c. or the <hi>Martyrs</hi> and <hi>Confessors</hi> departed, as St. <hi>Faux,</hi> St. <hi>Coleman,</hi> St. <hi>Ruth</hi> and his <hi>Dragoons,</hi> of ever fra<g ref="char:EOLhyphen"/>grant Memory.</p>
+            <p>
+               <hi>Qu.</hi> What is the Merit of Alms-deeds?</p>
+            <p>
+               <hi>Ans.</hi> The free and generous opening of our Hands and Hearts to the consciencious abdicating Militants, whether modestly retrencht and retired from a Scarf and a Commission, to a Tap or a Coffee-Pot; or o<g ref="char:EOLhyphen"/>therwise,
+<pb n="7" facs="tcp:175706:4"/> the hungry Itinerants of the <hi>Park</hi> and <hi>Temple Walks.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> How many are the Deadly Sins?</p>
+            <p>
+               <hi>Ans.</hi> They are Seven. The First, <hi>Pride.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> What is the Virtue recommended, and Duty enjoyn'd thee to avoid falling into that Sin?</p>
+            <p>
+               <hi>Ans. <hi>Humility.</hi>
+               </hi> We must not be exalted nor puffed up with any Earthly Glory, such as the pre<g ref="char:EOLhyphen"/>sent Establishment of <hi>Rights</hi> and <hi>Laws, Justice,</hi> and <hi>Equity, &amp;c.</hi> but with all Resignation wait the great <hi>Lodowickean Deliverer</hi> to knock off those loath'd and detested <hi>Williamite Shackles</hi> and <hi>Manacles.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> What is the second deadly Sin, and the Vir<g ref="char:EOLhyphen"/>tue required? <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ans. <hi>Covetuousness.</hi>
+               </hi> We must not Lust or Desire, Hanker, or Long for the House or Vineyard of our Neighbour, excepting the Spoyls of the <hi>Ae<g ref="char:EOLhyphen"/>gyptians,</hi> those of our <hi>Heretick</hi> Foes and Enemies.</p>
+            <p>
+               <hi>Qu.</hi> The Third?</p>
+            <p>
+               <hi>Ans. <hi>Luxury.</hi>
+               </hi> We must keep our Carnal Bodies Chast and undefiled, within the due Limits and Re<g ref="char:EOLhyphen"/>strictions of our Holy Mother Church, that is, from the <hi>Waste</hi> upwards, according to the great Exam<g ref="char:EOLhyphen"/>ples of our Piety and Champions of our Faith, <hi>Lewis</hi> and <hi>J—s</hi> of ever Illustrious <hi>Continency.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> The Fourth?</p>
+            <p>
+               <hi>Ans. <hi>Gluttony.</hi>
+               </hi> We must forbear all Riot and Gorging, especially not only considering the Morta<g ref="char:EOLhyphen"/>lity and Abdication of so many Festival Patrons and Benefactors; but that the late Granaries of <hi>Maud<g ref="char:EOLhyphen"/>lin,</hi> the Eleemosynaries of <hi>Sommerset-Cloisters,</hi> the
+<pb n="8" facs="tcp:175706:5"/>
+               <hi>Brent-</hi>Office of the <hi>Temple,</hi> the <hi>Teauge-</hi>Purse at <hi>Whitehall,</hi> and all the rest of our once fair Showers of <hi>Manna,</hi> and Windows of Heaven, are now stopt and shut up against us.</p>
+            <p>
+               <hi>Qu.</hi> The Fifth.</p>
+            <p>
+               <hi>Ans. <hi>Envy.</hi>
+               </hi> We must suppress all Indignation and Malice <hi>(durus hic Sermo)</hi> nor cast a Repining Look (a very hard Chapter) and behold, but not mix with the <hi>Williamite</hi> Pollutions; see their Fourth and Fifth of <hi>November Illuminations,</hi> and the rest of our <hi>Jacobite</hi> Eye-Sores, without a Grin or a Murmur, as waiting for a more glorious <hi>Jubilee</hi> of our own, when our great <hi>Mene, Tekel,</hi> shall be writ upon their Walls, by the <hi>Gallican</hi> Pen of Steele.</p>
+            <p>
+               <hi>Qu.</hi> The Sixth?</p>
+            <p>
+               <hi>Ans. <hi>Anger.</hi>
+               </hi> We must Bellow no more at the <hi>Williamite</hi> Insults over us, but attend with all the most Christian Patience, till our <hi>Gallican</hi> Reformer shall mend our Scutcheon, root out the Den of our <hi>Passants</hi> and <hi>Rampants,</hi> but especially that <hi>Jacobite</hi> Abomination the <hi>Roarer</hi> of <hi>Belgia,</hi> and soften our whole <hi>Field</hi> into a Garden of his own planted <hi>Lillies.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> The Seventh?</p>
+            <p>
+               <hi>Ans. <hi>Sloth.</hi>
+               </hi> We must neither Dream nor Sleep in the Work upon our Hands, but wait and watch ready Booted and Spurred, for the first Trump of our new <hi>Lillyburlero</hi> to mount for our Deliverance.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175706:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
